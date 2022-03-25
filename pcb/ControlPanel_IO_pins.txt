@@ -1,0 +1,16 @@
+BTN0_A IO36  click:start/stop, double click:toggle, help: station	(кнопка 1)
+BTN0_B IO15  click: +							(кнопка 4)
+BTN0_C IO39  click: -							(кнопка 2)
+
+BTN1_A IO35  start/stop, toggle, volume					(кнопка 3)
+BTN1_B IO5   + 								(кнопка 6)
+BTN2_C IO27  -								(кнопка 5)
+
+
+BTN0_A IO36  click:start/stop, double click:toggle, help: station	(кнопка 1)
+BTN0_B IO27  click: +							(кнопка 4)
+BTN0_C IO5   click: -							(кнопка 2)
+
+BTN1_A IO35  start/stop, toggle, volume					(кнопка 3)
+BTN1_B IO39  + 								(кнопка 6)
+BTN2_C IO15  -								(кнопка 5)
